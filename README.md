@@ -42,5 +42,33 @@ Users can change the report to aggregate spending per hour, day,month, and year 
 Inside the database the passwords are stored using SHA-2 algorithm by using a separate salt for each and every user of the application.
 
 
+HOW TO BUILD AND RUN THE PROJECT: 
+
+=>Download this GitHub repository into a separate directory. 
+=> Open visual studio => File=> Open=> Website=> (Select ExpenseApp Folder from the downloaded directory) => click open
+=> After your project is opened, go to the solution explorer and right click Default.aspx => View in Browser
+
+
+Testing: 
+UnitTesting and Selenium Testing are available with the project. To run selenium testing make sure of the following. 
+1) Under the TestingExpensesApp Folder => SeleniumTesting.cs make sure to change the URL to your local host URL. 
+2) Make sure to install Selenium Webdriver, Selenium Support, Chrome webdriver for the TestingExpensesApp folder using NUGET packages
+
+Database is available under Amazon RDS and it connected to this application via code. You can check it in the web.config (Connection String) file under ExpensesApp folder. Some of the pre existing values of user are: 
+
+UserName: alice123 (Regular user)
+password: alice123
+
+UserName: Admin (Admin user)
+password: 123
+
+UserName: markz (Regular user)
+password: markz
+
+UserName: don (Admin user)
+password: don
+
+
+
 
 
