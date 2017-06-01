@@ -1,0 +1,9 @@
+C:\Users\Raghu\Documents\Visual Studio 2015\Projects\ExpensesApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Raghu\Documents\Visual Studio 2015\Projects\ExpensesApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Raghu\Documents\Visual Studio 2015\Projects\ExpensesApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Raghu\Documents\Visual Studio 2015\Projects\ExpensesApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Raghu\Documents\Visual Studio 2015\Projects\ExpensesApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\UIC\part time job application\summer jobs\Interviews\Gigster\SolutionFile\DataAccessLayer.dll
+D:\UIC\part time job application\summer jobs\Interviews\Gigster\SolutionFile\DataAccessLayer.pdb
+D:\Early outreach program\ExpensesApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Early outreach program\ExpensesApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

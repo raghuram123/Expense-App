@@ -1,0 +1,10 @@
+D:\Early outreach program\TestingExpenseApp\bin\Debug\TestingExpenseApp.dll
+D:\Early outreach program\TestingExpenseApp\bin\Debug\TestingExpenseApp.pdb
+D:\Early outreach program\TestingExpenseApp\bin\Debug\DataAccessLayer.dll
+D:\Early outreach program\TestingExpenseApp\bin\Debug\WebDriver.dll
+D:\Early outreach program\TestingExpenseApp\bin\Debug\WebDriver.Support.dll
+D:\Early outreach program\TestingExpenseApp\bin\Debug\DataAccessLayer.pdb
+D:\Early outreach program\TestingExpenseApp\bin\Debug\WebDriver.xml
+D:\Early outreach program\TestingExpenseApp\bin\Debug\WebDriver.Support.xml
+D:\Early outreach program\TestingExpenseApp\obj\Debug\TestingExpenseApp.dll
+D:\Early outreach program\TestingExpenseApp\obj\Debug\TestingExpenseApp.pdb
